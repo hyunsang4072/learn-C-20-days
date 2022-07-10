@@ -2,7 +2,7 @@
 
 <br>
 
-<span style="text-decoration: underline">20 days of fundamentals of C language</span>
+<ins>20 days of fundamentals of C language</ins>
 - how to get started  
 - syntax
 - etc
